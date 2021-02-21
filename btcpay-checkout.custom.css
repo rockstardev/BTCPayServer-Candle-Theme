@@ -1,6 +1,6 @@
 body {
-    background: url(https://media.giphy.com/media/jljAYSaUFrPzaf9wzp/giphy.gif);
-    background-blend-mode: soft-light;
+    background: url(https://media.giphy.com/media/QP2Kf72vV25vQv1Gi7/giphy.gif);
+    background-blend-mode: difference;
     background-size: 300px;
     background-color: #1d1d1d;
 }
@@ -76,7 +76,7 @@ label {
 }
 
 .payment-box {
-    background: url(https://media3.giphy.com/media/Pw7f9kOfx8iOI/giphy.gif);
+    background: url(https://media.giphy.com/media/YuaVsUy2JxsnSDHHbr/giphy.gif);
     background-position: center;
     background-size: cover;
     border-radius: 0 0 5px 5px;
@@ -247,7 +247,7 @@ label {
 
 /* paid */
 .paid .payment-box {
-    background: url(https://media0.giphy.com/media/mxB3Vu9ckNZiU/giphy.gif);
+    background: url(https://media.giphy.com/media/OOAm53phjfUd0TNP31/giphy.gif);
     min-height: 270px;
 }
 .paid .action-button,
